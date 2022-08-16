@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: whitesmoke;
+    padding: 90px 0;
+}
+.calculadora {
+    width: 400px;
+    margin: 0 auto;
+    background-color: #9daae6;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 4px black;
+}
